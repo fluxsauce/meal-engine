@@ -3,12 +3,12 @@
 Don't know what to eat? No dietary restrictions? Use our app! Randomly generated recipes including snacks, appetizers, desserts, and meals.
 
 ## In order to use you must have the following
-NPM Installed, Brew, mongodb, and compatable browse(Pefered Chrome)
+NPM Installed, Brew, mongodb, and compatible browser (Prefer Chrome)
 
 ## How to download and use
 
 ### Step 1
-Fork and download files.
+Checkout files.
 
 ### Step 2
 Get server up and running by running `nodemon` command
